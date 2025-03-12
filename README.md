@@ -15,3 +15,8 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### Documentation Improvements
+- **Refactored Code**: A few sections of code were rewritten for improved performance and readability.
+- **Enhanced Visualizations**: New graphs and charts to provide improved insights.
+- **Enhanced Filtering Facility**: The user can now filter data dynamically for more precise analysis.
+- **Documentation Status**: ready.
