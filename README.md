@@ -23,7 +23,11 @@ The primary objectives of the project are to:
 - **Data Files**: The project takes CSV files containing the same bikeshare data for cities New York City, Chicago, and Washington D.C. These are not versioned using a `.gitignore` file because of privacy and storage reasons.
 
 ### Credits
-This project was inspired by the **Udacity Data Analyst Nanodegree Program**. Special thanks to the following resources that were instrumental in the development of this project:
-- **Udacity GitHub repository**: For providing the baseline structure and dataset.
-- **Pandas Documentation**: For guidance on data manipulation techniques.
-- **Markdown Guide**: For documenting well-organized and readable documents.
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+### Documentation Improvements
+- **Refactored Code**: A few sections of code were rewritten for improved performance and readability.
+- **Enhanced Visualizations**: New graphs and charts to provide improved insights.
+- **Enhanced Filtering Facility**: The user can now filter data dynamically for more precise analysis.
+- **Documentation Status**: ready.
+sss
